@@ -60,5 +60,7 @@ let gameCounter = 100
 ++gameCounter;
 console.log(gameCounter);
 
-
+// link to study
+// https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion// link to study
+// https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
 
