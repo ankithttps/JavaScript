@@ -1,3 +1,6 @@
+// higher order array loop
+
+
 // for of
 
 // ["", "", ""]
